@@ -1,2 +1,2 @@
-# exemplesPortugolStd
-Programinhas escritos em (.por)
+# exemplesPor/Python/C
+Programinhas escritos em (.por), (.py), (.C), para estudos.
